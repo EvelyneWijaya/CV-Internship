@@ -1,15 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Evelyne's Career Journey
 
-You can use the [editor on GitHub](https://github.com/EvelyneWijaya/CV-Internship/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Greetings! My name is Evelyne Natalie Wijaya, I am a third-year student majoring in Business Mathematics STEM Universitas Prasetiya Mulya.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Personal Information
 
 ```markdown
-Syntax highlighted code block
+Date of Birth 
+# Jakarta, 17 September 2000
+Address
+# Taman Surya Boulevard, Kalideres, Jakarta Barat, 11730
+Email
+# evelynewijaya17@gmail.com
+Phone Number
+# 087885401123
 
 # Header 1
 ## Header 2
